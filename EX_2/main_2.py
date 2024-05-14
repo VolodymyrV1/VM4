@@ -29,3 +29,4 @@ def get_cats_info(path):
 
 cats_info = get_cats_info("/Users/volodymyr/Desktop/VM4/EX_2/cats_file.txt")
 print(cats_info)
+
